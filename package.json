@@ -1,0 +1,18 @@
+{
+  "name": "binary-search-test-npm",
+  "version": "1.0.2",
+  "description": "This is the npm package used for binary search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary-search-test-npm"
+  ],
+  "author": "Jignesh Mahadik",
+  "license": "ISC",
+  "dependencies": {
+    "binary-search-test-npm": "^1.0.0"
+  }
+}
