@@ -15,4 +15,4 @@ function recurFun(arr, x, start, end){
     }
 }
 
-module.exports = recurFun;
+module.exports = {recurFun};
